@@ -4,6 +4,9 @@
   "main": "src/index.js",
   "author": "benfurber <ben@fu.rber.io>",
   "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  },
   "dependencies": {
     "graphql-yoga": "^1.14.12"
   },
