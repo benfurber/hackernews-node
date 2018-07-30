@@ -21,5 +21,10 @@
       "lcov",
       "html"
     ]
+  },
+  "standard": {
+    "env": [
+      "jest"
+    ]
   }
 }
