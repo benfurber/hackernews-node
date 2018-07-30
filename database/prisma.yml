@@ -1,0 +1,4 @@
+#endpoint: ''
+endpoint: process.env.PRISMA_REMOTE_ENDPOINT
+datamodel: datamodel.graphql
+secret: process.env.PRISMA_SECRET
