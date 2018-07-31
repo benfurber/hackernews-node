@@ -1,4 +1,3 @@
-#endpoint: ''
-endpoint: process.env.PRISMA_REMOTE_ENDPOINT
+endpoint: https://eu1.prisma.sh/ben-d4b107/database/dev
 datamodel: datamodel.graphql
-secret: process.env.PRISMA_SECRET
+secret: '243254397gfeHD£$213jnbo'

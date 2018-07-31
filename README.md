@@ -4,9 +4,10 @@
 
 ### Setup required:
 ```
-touch .env
+touch database/prisma.yaml
 ```
 ```
-PRISMA_SECRET=<WHATEVER YOU WANT>
-PRISMA_REMOTE_ENDPOINT=<WHATEVER THEY GIVE YOU>
+endpoint: <WHATEVER THEY GIVE YOU>
+datamodel: datamodel.graphql
+secret: '<WHATEVER YOU WANT>'
 ```
